@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
   
     int cipher = atoi(argv[1]); // var inteira que converte o que estiver em a(str) para int
     
-  //  printf("%d Parametro: %d\n", 0, num);
+    printf("%d Parametro: %d\n", 0, argv[1]);
 
 
     char texto[100];
